@@ -32,4 +32,3 @@ def unauthorized() -> None:
       - unauthorized error
     """
     abort(401)
-
